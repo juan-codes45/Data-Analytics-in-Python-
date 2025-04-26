@@ -91,4 +91,4 @@ This information I've provided will help Stadinet create my profile and customiz
 1. Set up my basic user profile
 2. Connect me with relevant resources for University students
 3. Potentially match me with other KCA University students
-4. Show me content relevant to my educational background 
+4. Show me content relevant to my educational background
