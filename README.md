@@ -75,20 +75,3 @@ print(values)
 print(f"\nTotal number of values collected: {len(values)}")
 ```
 
-## 2. Stadinet.co Account Creation Analysis
-
-Verification code sent on my email basically to open my stadinet.co account. My Step 1 Screen shot after creating or signing up my stadinet.co account:
-
-I can confirm that I have now filled out the Stadinet onboarding form with my information:
-1. I entered my name as Juan Amuom.
-2. I selected "University" as my highest education level.
-3. I indicated that I am attending KCA University.
-4. I selected "Male" as my gender
-
-Now that I have completed Step 1; which included registering my account, setting a password, and receiving the verification code 010039 via Gmail I see the next step is to click the blue "Proceed" button meaning to continue or go on with the registration process.
-
-This information I've provided will help Stadinet create my profile and customize my experience on the platform. I expect they will likely use these details to:
-1. Set up my basic user profile
-2. Connect me with relevant resources for University students
-3. Potentially match me with other KCA University students
-4. Show me content relevant to my educational background
